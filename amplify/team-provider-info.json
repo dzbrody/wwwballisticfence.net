@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wwwballisticfencenet-dev-140516-authRole",
+      "UnauthRoleArn": "arn:aws:iam::455719446205:role/amplify-wwwballisticfencenet-dev-140516-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::455719446205:role/amplify-wwwballisticfencenet-dev-140516-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-wwwballisticfencenet-dev-140516-deployment",
+      "UnauthRoleName": "amplify-wwwballisticfencenet-dev-140516-unauthRole",
+      "StackName": "amplify-wwwballisticfencenet-dev-140516",
+      "StackId": "arn:aws:cloudformation:ca-central-1:455719446205:stack/amplify-wwwballisticfencenet-dev-140516/e73c1650-8d57-11ee-8ee1-0e017814da24",
+      "AmplifyAppId": "d2is0eg7825eb9"
+    }
+  }
+}
