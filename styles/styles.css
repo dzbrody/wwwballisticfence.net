@@ -1,0 +1,86 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #005; /* Dark Blue */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    padding: 20px 0;
+    color: #000;
+}
+
+.intro {
+    background-color: lightblue; /* Light Green */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.product-description, .community-assurance, .technology, .call-to-action, .field-testing, .nato-standards {
+    background-color: #e9d8a6; /* Light Beige */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center; /* Align items horizontally at the center */
+    align-items: center;     /* Align items vertically at the center */
+    padding: 20px;
+    flex-direction: column;  /* Stack items vertically */
+    flex-wrap: wrap;
+}
+.video-container h4 {
+    margin-bottom: 10px; /* Space between title and video */
+}
+
+.video-container video {
+    margin-bottom: 20px; /* Space between different video blocks */
+}
+
+
+footer {
+    background: #005f73;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+button {
+    background-color: #94d2bd;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #005f73;
+}
+
+/* Add more styles as needed */
